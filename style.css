@@ -46,6 +46,13 @@ header {
     background-color:#171B26;
     position:relative;
 }
+.section-right {
+    padding:30px 20px 0 0;
+}
+.JScode {
+    border-left: 8px solid #e6e7e9;
+    padding-left:10px;
+}
 
 .avatar {
     background-color: #212530;
