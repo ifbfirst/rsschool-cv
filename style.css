@@ -194,7 +194,7 @@ footer p {
     color: #fff;
 }
 
-a.git_link:after {
+a.rs_link:after {
     content: "";
     display: inline-block;
     background: url("rs_school_js.svg") no-repeat top right #fff;
@@ -206,7 +206,7 @@ a.git_link:after {
 
 }
 
-a.rs_link:after {
+a.git_link:after {
     content: "";
     display: inline-block;
     background: url("git_ikon.png") no-repeat top right;
